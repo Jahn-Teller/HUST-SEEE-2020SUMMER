@@ -8,7 +8,7 @@ print (_password)
 flag0=0
 flag1=0
 print("----------用户登录----------")
-
+#主循环，当flag1=1时打印登陆成功并跳出
 while True:
     user=input("请输入用户名:")
     if user==_usrname:
