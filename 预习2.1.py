@@ -30,3 +30,4 @@ while True:
         print ("您已输入错误三次，请重新登陆")
     else:
         print ("用户名不存在，请重新输入！")
+print（"I LOVE PYTHON"）
