@@ -1,9 +1,10 @@
 _usrname=input("请初始化用户名:")
 _password=input("请初始化登录密码:")
-
+#打印初始化后的用户名和密码
 print (_usrname)
 print (_password)
-
+#flag0代表输入错误的次数
+#flag1为用户名和密码都输入正确的标志
 flag0=0
 flag1=0
 print("----------用户登录----------")
